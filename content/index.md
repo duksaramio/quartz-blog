@@ -19,6 +19,7 @@ title: My Notes
 - [Learning DSPy - DSPy](https://dspy.ai/learn/)
 - [Agents](https://pydantic.dev/docs/ai/core-concepts/agent/)
 - [What is Filament? - Filament](https://filamentphp.com/docs/5.x/introduction/overview)
+- [Unsloth Docs \| Unsloth Documentation](https://unsloth.ai/docs)
 
 ## Skills
 

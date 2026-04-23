@@ -38,3 +38,4 @@ title: My Notes
 ## Links
 
 - [Saram Consulting](https://saram.io)
+- [GxPSoft AI](https://gxpsoft.ai)

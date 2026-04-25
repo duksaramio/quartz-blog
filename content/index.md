@@ -6,15 +6,15 @@ title: My Notes
 
 ## Daily Notes
 
-- [[2026-04-25 notes]]
-- [[2026-04-24 notes]]
-- [[2026-04-23 notes]]
-- [[2026-04-22 notes]]
-- [[2026-04-21 notes]]
-- [[2026-04-20 notes]]
-- [[2026-04-19 notes]] 
-- [[2026-04-18 notes]]
-- [[2026-04-17 notes]]
+- [[2026-04-25 Sat notes]]
+- [[2026-04-24 Fri notes]]
+- [[2026-04-23 Thu notes]]
+- [[2026-04-22 Wed notes]]
+- [[2026-04-21 Tue notes]]
+- [[2026-04-20 Mon notes]]
+- [[2026-04-19 Sun notes]] 
+- [[2026-04-18 Sat notes]]
+- [[2026-04-17 Fri notes]]
 ## Learning
 
 - [Routing \| Laravel 13.x - The clean stack for Artisans and agents](https://laravel.com/docs/13.x/routing)

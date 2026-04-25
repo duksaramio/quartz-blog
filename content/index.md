@@ -17,6 +17,7 @@ title: My Notes
 - [[2026-04-17 Fri notes]]
 ## Learning
 
+- [Quickstart \| Hermes Agent](https://hermes-agent.nousresearch.com/docs/getting-started/quickstart)
 - [Routing \| Laravel 13.x - The clean stack for Artisans and agents](https://laravel.com/docs/13.x/routing)
 - [Learning DSPy - DSPy](https://dspy.ai/learn/)
 - [Agents](https://pydantic.dev/docs/ai/core-concepts/agent/)

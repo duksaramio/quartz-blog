@@ -6,6 +6,7 @@ title: My Notes
 
 ## Daily Notes
 
+- [[2026-04-26 Sun notes]]
 - [[2026-04-25 Sat notes]]
 - [[2026-04-24 Fri notes]]
 - [[2026-04-23 Thu notes]]
